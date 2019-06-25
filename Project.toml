@@ -1,0 +1,7 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+Measures = "442fdcdd-2543-5da2-b0f3-8c86c306513e"
+NLopt = "76087f3c-5699-56af-9a33-bf431cd00edd"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
